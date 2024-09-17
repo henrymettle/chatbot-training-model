@@ -1,0 +1,1 @@
+This project implements a chatbot model that uses natural language processing (NLP) and deep learning to interact with users. The model can be fine-tuned for specific tasks like customer support, personal assistance, or general conversational purposes.
